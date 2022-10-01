@@ -54,12 +54,3 @@ When you are ready to submit your project, collect the following files and compr
  - The `customer_segments.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
  - An **HTML** export of the project notebook with the name **report.html**. This file *must* be present for your project to be evaluated.
 
-Once you have collected these files and reviewed the project rubric, proceed to the project submission page.
-
-### I'm Ready!
-When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
-
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
-
-### What's Next?
-You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
